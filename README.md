@@ -1,8 +1,9 @@
 # 
 # 👋 Hi, I'm Asta!
 
-I'm a self-taught web developer with a background in operations, logistics, and customer service.  
-Currently expanding my skills in front-end and full-stack development. I enjoy learning, problem-solving, and building practical projects while continuously improving my technical abilities.
+I'm a self-taught web developer with a background in logistics, transport and customer service.  
+Currently expanding my skills in front-end and full-stack development. 
+I enjoy learning, problem-solving, and building practical projects while continuously improving my technical abilities.
 
 ---
 
