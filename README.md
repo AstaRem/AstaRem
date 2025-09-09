@@ -11,8 +11,6 @@ I enjoy learning, problem-solving, and building practical projects while continu
 - JavaScript, TypeScript, React, Astro, Node.js, Express.js
 - HTML, CSS, SASS, Git, GitHub, VS Code, AI tools, Figma
 
-### 🎯 Currently learning:
-- PHP, Laravel, and expanding into back-end development
 ---
 
 ### 🧩 About this GitHub:
